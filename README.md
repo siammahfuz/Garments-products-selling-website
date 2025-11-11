@@ -65,6 +65,16 @@ Admin can manage products, categories, and orders from the dashboard.
 
 Contributing
 
+Contact
+
+Md Mahfuzur Rahman Siam
+
+Email: ksiam3409@gmail.com
+
+GitHub: https://github.com/siammahfuz
+
+LinkedIn: https://www.linkedin.com/in/md-mahfuzur-rahman-siam/
+
 Feel free to submit pull requests or open issues for improvements.
 
 License
